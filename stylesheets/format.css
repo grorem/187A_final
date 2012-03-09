@@ -26,8 +26,8 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	
 	border-top: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
-	border-left: 2px solid #790b2d;
-	border-right: 2px solid #790b2d;
+	border-left: 1px solid #790b2d;
+	border-right: 1px solid #790b2d;
 	
 	}
 	
@@ -52,8 +52,8 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	
 	border-top: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
-	border-left: 2px solid #790b2d;
-	border-right: 2px solid #790b2d;
+	border-left: 1px solid #790b2d;
+	border-right: 1px solid #790b2d;
 	}
 	
 	.accordionButton2 {	
@@ -76,8 +76,8 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	
 	border-top: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
-	border-left: 2px solid #790b2d;
-	border-right: 2px solid #790b2d;
+	border-left: 1px solid #790b2d;
+	border-right: 1px solid #790b2d;
 	}
 	
 	.accordionButton3 {	
@@ -101,11 +101,11 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	_float: none; /* Float works in all browsers but IE6 */
 	background: url("../images/grey.png");
 	
-	border-left: 2px solid #790b2d;
+	border-left: 1px solid #790b2d;
 	
 	border-top: 1px solid #790b2d;
-	border-bottom: 2px solid #790b2d;
-	border-right: 2px solid #790b2d;
+	border-bottom: 1px solid #790b2d;
+	border-right: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
 	-webkit-border-radius: 20px 20px 20px 20px;
 	}
