@@ -1,7 +1,7 @@
 
 
 #body {
-background:url("../images/background.jpg");
+background:url("../images/background.png");
 
 
 }
@@ -29,14 +29,30 @@ margin-left:0px;
 
 }
 
+
+
 #maincontent{
 width: 640px;
 background: white;
 height:920px;
+
 margin-top:20px;
 border: 1px solid #790b2d;
 
 }
+
+#maincontent .row{
+border-style: solid;
+border-width: 0px 0px 1px 0px;
+margin-left: 10px;
+margin-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+
+
+
 
 #banner{
 height:100px;
@@ -58,9 +74,10 @@ border-color: black;
 /*padding-top: 10px;*/
 /*margin-top: 20px; */
 /*height: 80px;*/
-margin-left: 180px;
-width: 440px;
-/*height: 80px;*/
+margin-left: 20px;
+margin-right:20px;
+width: 600px;
+height: 80px;
 }
 
 .content_style{
