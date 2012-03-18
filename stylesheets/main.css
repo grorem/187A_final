@@ -42,14 +42,24 @@ background: white;
 
 }
 /* Content Styles*/
-#dividers{
+
+.dividers{
 border-bottom: 1px;
 border-style: solid;
 border-right-width: 0px;
 border-left-width: 0px;
 border-top-width: 0px;
-border-bottom-width: 2px;
-border-color: #C40C1D;
-padding-bottom: 7px;
+border-bottom-width: 1px;
+border-color: black;
+/*padding-bottom: 10px;*/
+/*padding-top: 10px;*/
+/*margin-top: 20px; */
+/*height: 80px;*/
+margin-left: 180px;
+width: 440px;
+/*height: 80px;*/
+}
 
+.content_style{
+    margin-top:10px;    
 }
