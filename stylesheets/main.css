@@ -41,3 +41,15 @@ height:100px;
 background: white;
 
 }
+/* Content Styles*/
+#dividers{
+border-bottom: 1px;
+border-style: solid;
+border-right-width: 0px;
+border-left-width: 0px;
+border-top-width: 0px;
+border-bottom-width: 2px;
+border-color: #C40C1D;
+padding-bottom: 7px;
+
+}
