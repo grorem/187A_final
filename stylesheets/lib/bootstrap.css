@@ -140,6 +140,10 @@ a:hover {
 .span5 {
   width: 380px;
 }
+
+.span5-5{
+  width: 440px;
+}
 .span6 {
   width: 460px;
 }
@@ -160,6 +164,10 @@ a:hover {
 }
 .span12, .container {
   width: 940px;
+}
+
+.offset1-2 {
+  margin-left: 10px;
 }
 .offset1 {
   margin-left: 100px;
@@ -310,11 +318,12 @@ h6 small {
   color: #999999;
 }
 h1 {
-  font-size: 30px;
-  line-height: 36px;
+  font-size: 14px;
+  /*line-height: 36px;*/
 }
 h1 small {
   font-size: 18px;
+  color: black;
 }
 h2 {
   font-size: 24px;

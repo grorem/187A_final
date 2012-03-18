@@ -44,3 +44,25 @@ background: white;
 border: 1px solid #790b2d;
 -webkit-border-radius: 0px 0px 20px 20px;
 }
+/* Content Styles*/
+
+.dividers{
+border-bottom: 1px;
+border-style: solid;
+border-right-width: 0px;
+border-left-width: 0px;
+border-top-width: 0px;
+border-bottom-width: 1px;
+border-color: black;
+/*padding-bottom: 10px;*/
+/*padding-top: 10px;*/
+/*margin-top: 20px; */
+/*height: 80px;*/
+margin-left: 180px;
+width: 440px;
+/*height: 80px;*/
+}
+
+.content_style{
+    margin-top:10px;    
+}
