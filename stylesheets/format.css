@@ -36,7 +36,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	height:50px;
 	float: left;
 	_float: none;  /* Float works in all browsers but IE6 */
-	background: url("../images/winepourtop1.png");
+	background: url("../images/winenav1.png");
 	border-bottom: 0px solid #FFFFFF;
 	cursor: pointer;
 	-webkit-border-radius: 20px 20px 0px 0px;
@@ -61,7 +61,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	height:50px;
 	float: left;
 	_float: none;  /* Float works in all browsers but IE6 */
-	background: url("../images/winepourtop2.png");
+	background: url("../images/winenav2.png");
 	border-bottom: 0px solid #FFFFFF;
 	cursor: pointer;
 	border: 1px solid #790b2d;
@@ -85,7 +85,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	height:50px;
 	float: left;
 	_float: none;  /* Float works in all browsers but IE6 */
-	background: url("../images/winepourtop3.png");
+	background: url("../images/winenav3.png");
 	border-bottom: 1px solid #790b2d;
 	cursor: pointer;
 	border: 1px solid #790b2d;
@@ -115,7 +115,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	height:50px;
 	float: left;
 	_float: none;  /* Float works in all browsers but IE6 */
-	background: url("../images/winepourtop4.png");
+	background: url("../images/winenav4.png");
 	border: 1px solid #790b2d;
 	
 	cursor: pointer;
