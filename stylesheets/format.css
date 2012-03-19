@@ -22,8 +22,9 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	height: 250px;
 	float: left;
 	_float: none; /* Float works in all browsers but IE6 */
-	background: url("../images/navbackground.png");
-	
+	background: ;
+	color:white;
+	padding-left:0px;
 	border-top: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
 	border-left: 1px solid #790b2d;
@@ -48,8 +49,8 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	height: 250px;
 	float: left;
 	_float: none; /* Float works in all browsers but IE6 */
-	background: url("../images/navbackground.png");
-	
+	background: ;
+	color:white;
 	border-top: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
 	border-left: 1px solid #790b2d;
@@ -72,8 +73,8 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	height: 250px;
 	float: left;
 	_float: none; /* Float works in all browsers but IE6 */
-	background: url("../images/navbackground.png");
-	
+	background: ;
+	color:white;
 	border-top: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
 	border-left: 1px solid #790b2d;
@@ -99,8 +100,8 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	height: 250px;
 	float: left;
 	_float: none; /* Float works in all browsers but IE6 */
-	background: url("../images/navbackground.png");
-	
+	background: ;
+	color:white;
 	border-left: 1px solid #790b2d;
 	
 	border-top: 1px solid #790b2d;
