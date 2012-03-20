@@ -55,6 +55,12 @@ color:white;
 
 }
 
+a:active, a:hover{
+
+background:red;
+
+}
+
 #navbuttons  a:active, a:hover{
 font-size:15px;
 background:url(../images/buttons/btnbkgrnd.png) no-repeat;

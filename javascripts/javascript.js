@@ -17,13 +17,13 @@ $(document).ready(function() {
 
 		//REMOVE THE ON CLASS FROM ALL BUTTONS
 		
-		$('.accordionButton1').removeClass('on');
+		
 		$('.accordionButton2').removeClass('on');
 		$('.accordionButton3').removeClass('on');
 		$('.accordionButton4').removeClass('on');
 		  
 		//NO MATTER WHAT WE CLOSE ALL OPEN SLIDES
-	 	$('.accordionContent1').slideUp('normal');
+	 	
 		$('.accordionContent2').slideUp('normal');
 		$('.accordionContent3').slideUp('normal');
 		$('.accordionContent4').slideUp('normal');
@@ -53,7 +53,7 @@ $(document).ready(function() {
 		  
 		//NO MATTER WHAT WE CLOSE ALL OPEN SLIDES
 	 	$('.accordionContent1').slideUp('normal');
-		$('.accordionContent2').slideUp('normal');
+		
 		$('.accordionContent3').slideUp('normal');
 		$('.accordionContent4').slideUp('normal');
    
@@ -74,7 +74,7 @@ $(document).ready(function() {
 	
 
 		//REMOVE THE ON CLASS FROM ALL BUTTONS
-		$('.accordionButton3').removeClass('on');
+		
 		  $('.accordionButton1').removeClass('on');
 		$('.accordionButton2').removeClass('on');
 		
@@ -82,7 +82,7 @@ $(document).ready(function() {
 		//NO MATTER WHAT WE CLOSE ALL OPEN SLIDES
 	 	$('.accordionContent1').slideUp('normal');
 		$('.accordionContent2').slideUp('normal');
-		$('.accordionContent3').slideUp('normal');
+		
 		$('.accordionContent4').slideUp('normal');
    
 		//IF THE NEXT SLIDE WASN'T OPEN THEN OPEN IT
@@ -105,14 +105,14 @@ $(document).ready(function() {
 		$('.accordionButton1').removeClass('on');
 		$('.accordionButton2').removeClass('on');
 		$('.accordionButton3').removeClass('on');
-		$('.accordionButton4').removeClass('on');
+		
 		
 		  
 		//NO MATTER WHAT WE CLOSE ALL OPEN SLIDES
 	 	$('.accordionContent1').slideUp('normal');
 		$('.accordionContent2').slideUp('normal');
 		$('.accordionContent3').slideUp('normal');
-		$('.accordionContent4').slideUp('normal');
+		
    
 		//IF THE NEXT SLIDE WASN'T OPEN THEN OPEN IT
 		if($(this).next().is(':hidden') == true) {
