@@ -2,7 +2,7 @@
 
 .status{
 background:url(../images/buttons/btnbkgrnd.png) no-repeat;
-color:white;
+
 }
 
 
@@ -37,35 +37,35 @@ border-width: 0px 0px 1px 0px;
 
 #navbuttons2 a {
 margin-left:3px;
+
 font-size:13px;
 padding: 10px 2px 5px 2px;
-color:#b6f3c7;
-text-decoration: none;
+color:#a878d9;
 }
 
 #navbuttons2   a:hover{
-margin-left:3px;
-font-size:13px;
-padding: 10px 2px 5px 2px;
-color: white;
-text-decoration: underline;
+font-size:12px;
+
+color:#790b2d;
+margin-left:0px;
 }
 
 
 #navbuttons a{
-font-size:13px;
+
+font-size:12px;
 padding: 10px 7px 5px 7px;
-color:#b6f3c7;
-text-decoration:none;
+color:white;
+
 }
 
 
 
 #navbuttons    a:hover{
-font-size:13px;
-color:white;
-padding: 10px 7px 5px 7px;
-text-decoration: underline;
+font-size:15px;
+
+color:#790b2d;
+
 }
 
 #body {
@@ -75,9 +75,11 @@ background:url("../images/backgroundmain.png");
 }
 
 #navbuttons2 li{
+
 float:left;
 padding-left:0px;
 font-style:  ;
+
 color:white;
 }
 
@@ -85,6 +87,7 @@ color:white;
 float:left;
 padding-left:0px;
 font-style:  ;
+
 color:white;
 }
 
@@ -100,9 +103,10 @@ margin-left:320px;
 
 #footer{
 height:50px;
-background: url("../images/background.png");
+/*background: url("../images/background.png");*/
 margin-top:20px;
-border: 1px solid #790b2d;
+/*border: 1px solid #790b2d; */
+color:white;
 }
 
 #footer li{
