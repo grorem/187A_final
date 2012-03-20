@@ -23,7 +23,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	float: left;
 	_float: none; /* Float works in all browsers but IE6 */
 	background: ;
-	color:white;
+	color:#f2d1f6;
 	padding-left:0px;
 	border-top: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
@@ -50,7 +50,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	float: left;
 	_float: none; /* Float works in all browsers but IE6 */
 	background: ;
-	color:white;
+	color:#f2d1f6;
 	border-top: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
 	border-left: 1px solid #790b2d;
@@ -74,7 +74,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	float: left;
 	_float: none; /* Float works in all browsers but IE6 */
 	background: ;
-	color:white;
+	color:#f2d1f6;
 	border-top: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
 	border-left: 1px solid #790b2d;
@@ -101,7 +101,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	float: left;
 	_float: none; /* Float works in all browsers but IE6 */
 	background: ;
-	color:white;
+	color:#f2d1f6;
 	border-left: 1px solid #790b2d;
 	
 	border-top: 1px solid #790b2d;

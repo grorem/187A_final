@@ -2,7 +2,7 @@
 
 .status{
 background:url(../images/buttons/btnbkgrnd.png) no-repeat;
-
+color:white;
 }
 
 
@@ -37,35 +37,35 @@ border-width: 0px 0px 1px 0px;
 
 #navbuttons2 a {
 margin-left:3px;
-
 font-size:13px;
 padding: 10px 2px 5px 2px;
-color:#a878d9;
+color:#b6f3c7;
+text-decoration: none;
 }
 
 #navbuttons2   a:hover{
-font-size:12px;
-
-color:#790b2d;
-margin-left:0px;
+margin-left:3px;
+font-size:13px;
+padding: 10px 2px 5px 2px;
+color: white;
+text-decoration: underline;
 }
 
 
 #navbuttons a{
-
-font-size:12px;
+font-size:13px;
 padding: 10px 7px 5px 7px;
-color:white;
-
+color:#b6f3c7;
+text-decoration:none;
 }
 
 
 
 #navbuttons    a:hover{
-font-size:15px;
-
-color:#790b2d;
-
+font-size:13px;
+color:white;
+padding: 10px 7px 5px 7px;
+text-decoration: underline;
 }
 
 #body {
@@ -75,11 +75,9 @@ background:url("../images/backgroundmain.png");
 }
 
 #navbuttons2 li{
-
 float:left;
 padding-left:0px;
 font-style:  ;
-
 color:white;
 }
 
@@ -87,7 +85,6 @@ color:white;
 float:left;
 padding-left:0px;
 font-style:  ;
-
 color:white;
 }
 
