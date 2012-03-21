@@ -39,7 +39,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	_float: none;  /* Float works in all browsers but IE6 */
 	background: url("../images/winenav1.png");
 	border-bottom: 0px solid #FFFFFF;
-	cursor: pointer;
+	cursor: default;
 	-webkit-border-radius: 20px 20px 0px 0px;
 	border: 1px solid #790b2d;
 	}
@@ -64,7 +64,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	_float: none;  /* Float works in all browsers but IE6 */
 	background: url("../images/winenav2.png");
 	border-bottom: 0px solid #FFFFFF;
-	cursor: pointer;
+	cursor: default;
 	border: 1px solid #790b2d;
 	}
 	
@@ -88,7 +88,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	_float: none;  /* Float works in all browsers but IE6 */
 	background: url("../images/winenav3.png");
 	border-bottom: 1px solid #790b2d;
-	cursor: pointer;
+	cursor: default;
 	border: 1px solid #790b2d;
 	
 	
@@ -119,7 +119,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	background: url("../images/winenav4.png");
 	border: 1px solid #790b2d;
 	
-	cursor: pointer;
+	cursor: default;
 	-webkit-border-radius: 0px 0px 20px 20px;
 	}
 	
