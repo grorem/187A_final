@@ -108,7 +108,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	border-bottom: 1px solid #790b2d;
 	border-right: 1px solid #790b2d;
 	border-bottom: 1px solid #790b2d;
-	-webkit-border-radius: 20px 20px 20px 20px;
+	-webkit-border-radius: 5px 5px 20px 20px;
 	}
 	
 	.accordionButton4 {	
@@ -120,7 +120,7 @@ DESCRIPTION: This document contains the structural formatting files for the acco
 	border: 1px solid #790b2d;
 	
 	cursor: default;
-	-webkit-border-radius: 0px 0px 20px 20px;
+	-webkit-border-radius: 0px 0px 5px 5px;
 	}
 	
 

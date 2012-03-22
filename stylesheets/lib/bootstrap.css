@@ -167,6 +167,10 @@ a:hover {
   width: 940px;
 }
 
+.offset0 {
+  margin-left: 150px;
+}
+
 .offset1-2 {
   margin-left: 10px;
 }

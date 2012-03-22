@@ -21,22 +21,26 @@ padding-bottom:15px;
 }
 
 #navbuttons {
-width:300px;
+width:320px;
 height:27px;
-border-style:solid;
+border-style:dotted;
 border-width: 0px 0px 1px 0px;
-
+border-color: #790b2d;
 }
-#navbuttons2 {
-width:300px;
-height:27px;
-border-style:solid;
-border-width: 0px 0px 1px 0px;
 
+
+
+#navbuttons2 {
+width:320px;
+height:27px;
+border-style:dotted;
+border-width: 0px 0px 1px 0px;
+border-color:#790b2d;
 }
 
 #navbuttons2 a {
-margin-left:3px;
+margin-left:1px;
+margin-right:2px;
 font-size:13px;
 padding: 6px 2px 5px 2px;
 color:#b6f3c7;
@@ -44,7 +48,8 @@ text-decoration: none;
 }
 
 #navbuttons2   a:hover{
-margin-left:3px;
+margin-left:1px;
+margin-right:2px;
 font-size:13px;
 padding: 6px 2px 5px 2px;
 color: white;
@@ -52,14 +57,43 @@ text-decoration: underline;
 }
 
 
+#navbuttons3 {
+width:320px;
+height:27px;
+border-style: dotted;
+border-width: 0px 0px 1px 0px;
+border-color: #790b2d;
+
+}
+
+#navbuttons3 a {
+margin-left: -11px;
+margin-right: 16px;
+font-size:13px;
+padding: 6px 2px 5px 3px;
+color:#b6f3c7;
+text-decoration: none;
+}
+
+#navbuttons3   a:hover{
+margin-left: -11px;
+margin-right: 16px;
+font-size:13px;
+color: white;
+padding: 6px 2px 5px 3px;
+text-decoration: underline;
+}
+
+
+
+
 #navbuttons a{
+margin-right: -2px;
 font-size:13px;
 padding: 6px 7px 5px 7px;
 color:#b6f3c7;
 text-decoration:none;
 }
-
-
 
 #navbuttons    a:hover{
 font-size:13px;
@@ -79,6 +113,14 @@ float:left;
 padding-left:0px;
 font-style:  ;
 color:white;
+}
+
+#navbuttons3 li{
+float:left;
+padding-left: 0px;
+font-style:  ;
+color:white;
+margin-left: -5px;
 }
 
 #navbuttons li{
@@ -125,7 +167,7 @@ margin-left:0px;
 #maincontent{
 background:url("../images/background.png");
 width: 640px;
-height:1200px;
+height:1000px;
 
 margin-top:20px;
 border: 1px solid #790b2d;
