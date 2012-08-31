@@ -1,0 +1,132 @@
+/***********************************************************************************************************************
+DOCUMENT: style/format.css
+DEVELOPED BY: Ryan Stemkoski
+COMPANY: Zipline Interactive
+EMAIL: ryan@gozipline.com
+PHONE: 509-321-2849
+DATE: 2/26/2009
+DESCRIPTION: This document contains the structural formatting files for the accordion style menu.
+************************************************************************************************************************/
+#wrapper {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-border-radius: 10px;
+	
+	}
+
+
+	
+.accordionContent1 {	
+	width: 300px;
+	height: 250px;
+	float: left;
+	_float: none; /* Float works in all browsers but IE6 */
+	background: ;
+	color:#f2d1f6;
+	padding-left:0px;
+	border-top: 1px solid #790b2d;
+	border-bottom: 1px solid #790b2d;
+	border-left: 1px solid #790b2d;
+	border-right: 1px solid #790b2d;
+	
+	}
+	
+	.accordionButton1 {	
+	width: 300px;
+	height:50px;
+	float: left;
+	_float: none;  /* Float works in all browsers but IE6 */
+	background: url("../images/winenav1.png");
+	border-bottom: 0px solid #FFFFFF;
+	cursor: pointer;
+	-webkit-border-radius: 20px 20px 0px 0px;
+	border: 1px solid #790b2d;
+	}
+	
+.accordionContent2 {	
+	width: 300px;
+	height: 250px;
+	float: left;
+	_float: none; /* Float works in all browsers but IE6 */
+	background: ;
+	color:#f2d1f6;
+	border-top: 1px solid #790b2d;
+	border-bottom: 1px solid #790b2d;
+	border-left: 1px solid #790b2d;
+	border-right: 1px solid #790b2d;
+	}
+	
+	.accordionButton2 {	
+	width: 300px;
+	height:50px;
+	float: left;
+	_float: none;  /* Float works in all browsers but IE6 */
+	background: url("../images/winenav2.png");
+	border-bottom: 0px solid #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #790b2d;
+	}
+	
+.accordionContent3 {	
+	width: 300px;
+	height: 250px;
+	float: left;
+	_float: none; /* Float works in all browsers but IE6 */
+	background: ;
+	color:#f2d1f6;
+	border-top: 1px solid #790b2d;
+	border-bottom: 1px solid #790b2d;
+	border-left: 1px solid #790b2d;
+	border-right: 1px solid #790b2d;
+	}
+	
+	.accordionButton3 {	
+	width: 300px;
+	height:50px;
+	float: left;
+	_float: none;  /* Float works in all browsers but IE6 */
+	background: url("../images/winenav3.png");
+	border-bottom: 1px solid #790b2d;
+	cursor: pointer;
+	border: 1px solid #790b2d;
+	
+	
+
+	}
+	
+.accordionContent4 {	
+	width: 300px;
+	height: 250px;
+	float: left;
+	_float: none; /* Float works in all browsers but IE6 */
+	background: ;
+	color:#f2d1f6;
+	border-left: 1px solid #790b2d;
+	
+	border-top: 1px solid #790b2d;
+	border-bottom: 1px solid #790b2d;
+	border-right: 1px solid #790b2d;
+	border-bottom: 1px solid #790b2d;
+	-webkit-border-radius: 20px 20px 20px 20px;
+	}
+	
+	.accordionButton4 {	
+	width: 300px;
+	height:50px;
+	float: left;
+	_float: none;  /* Float works in all browsers but IE6 */
+	background: url("../images/winenav4.png");
+	border: 1px solid #790b2d;
+	
+	cursor: pointer;
+	-webkit-border-radius: 0px 0px 20px 20px;
+	}
+	
+
+	
+/***********************************************************************************************************************
+ EXTRA STYLES ADDED FOR MOUSEOVER / ACTIVE EVENTS
+************************************************************************************************************************/
+
+
